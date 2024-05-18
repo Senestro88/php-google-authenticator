@@ -1,1 +1,2 @@
-# php-google-authenticator
+# Google Authenticator
+FREE PHP Google Authenticator
